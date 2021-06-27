@@ -1,0 +1,11 @@
+.jumbotron {
+    margin-bottom: 0;
+}
+
+.jumbotron img {
+    width: 200px;
+}
+
+nav + .container {
+    margin-top: 40px;
+}
